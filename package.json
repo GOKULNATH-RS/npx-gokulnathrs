@@ -1,0 +1,38 @@
+{
+  "name": "gokulnathrs",
+  "version": "1.0.0",
+  "description": "Gokulnath's Introduction on Terminal.",
+  "exports": "./index.js",
+  "bin": {
+    "gokulnath": "./bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "node ./bin/index.js",
+    "dev": "node ./bin/index.js",
+    "lint": "standard"
+  },
+  "keywords": [
+    "business",
+    "gokulnath",
+    "gokulnath-rs",
+    "gokulnaths",
+    "npm card",
+    "npx-card",
+    "npx business card"
+  ],
+  "author": "gokulnath",
+  "license": "MIT",
+  "files": [
+    "bin/index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/gokulnathsb/npx-gokulnath/issues"
+  },
+  "homepage": "https://github.com/gokulnathsb/gokulnathsb#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
+}
