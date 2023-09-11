@@ -1,6 +1,6 @@
 {
   "name": "gokulnathrs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Gokulnath's Introduction on Terminal.",
   "exports": "./index.js",
   "bin": {
@@ -12,6 +12,10 @@
     "build": "node ./bin/index.js",
     "dev": "node ./bin/index.js",
     "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GOKULNATH-RS/npx-gokulnathrs"
   },
   "keywords": [
     "business",
@@ -30,6 +34,7 @@
   "bugs": {
     "url": "https://github.com/GOKULNATH-RS/npx-gokulnathrs/issues"
   },
+  "homepage": "https://github.com/GOKULNATH-RS",
   "homepage": "https://github.com/GOKULNATH-RS",
   "dependencies": {
     "boxen": "^7.1.1",
