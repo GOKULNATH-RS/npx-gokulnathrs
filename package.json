@@ -1,6 +1,6 @@
 {
   "name": "gokulnathrs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Gokulnath's Introduction on Terminal.",
   "exports": "./index.js",
   "bin": {
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/GOKULNATH-RS/npx-gokulnathrs/issues"
   },
-  "homepage": "https://github.com/GOKULNATH-RS/npx-gokulnathrs",
+  "homepage": "https://github.com/GOKULNATH-RS",
   "dependencies": {
     "boxen": "^7.1.1",
     "chalk": "^5.3.0"
