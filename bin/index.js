@@ -15,7 +15,7 @@ const options = {
 const data = {
   intro: chalk
     .hex("#FFFADD")
-    .bold("I'm Gokulnath, your friendly neighborhood developer."),
+    .bold("I'm Gokulnath, your friendly neighbourhood developer."),
   roles: chalk.hex("#97FFF4")(
     "FrontEnd Developer | UI/UX Designer | Sophomore BTech IT"
   ),

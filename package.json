@@ -1,6 +1,6 @@
 {
   "name": "gokulnathrs",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Gokulnath's Introduction on Terminal.",
   "exports": "./index.js",
   "bin": {
