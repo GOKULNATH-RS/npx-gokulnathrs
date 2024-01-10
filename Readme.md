@@ -6,7 +6,6 @@ Hello Tech community! I'm excited to share a fun and creative project I've been 
 
 ![output](https://github.com/GOKULNATH-RS/npx-gokulnathrs/assets/114755342/cc65b1cb-dee5-4f68-a520-7ffee8a6c458)
 
-
 ### **What is it?**
 
 I've developed this project using JavaScript, with a little help from the fantastic Chalk.js and Boxen libraries. It's a unique way to give your terminal a personal touch and make your introduction stand out.
